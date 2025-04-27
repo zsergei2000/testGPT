@@ -1,19 +1,4 @@
-
- <head>
-
-  <meta charset="utf-8"/>
-<title>Exported Data</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-
-  <link href="css/style.css" rel="stylesheet"/>
-
-  <script src="js/script.js" type="text/javascript">
-
-  </script>
-
- </head>
-
- <body onload="CheckLocation();">
+ 
 
   <div class="page_wrap">
 
@@ -52891,6 +52876,4 @@ Next messages
 
   </div>
 
- </body>
-
-</html>
+ 
